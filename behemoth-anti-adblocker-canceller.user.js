@@ -6,8 +6,8 @@
 // @namespace          http://rjhsiao.me/gmscripts
 // @version            1.0
 // @author             RJ Hsiao
-// @downloadURL        
-// @updateURL          
+// @downloadURL        https://rawgit.com/RJHsiao/behemoth-anti-adblocker-canceller/master/behemoth-anti-adblocker-canceller.user.js
+// @updateURL          https://rawgit.com/RJHsiao/behemoth-anti-adblocker-canceller/master/behemoth-anti-adblocker-canceller.meta.js
 // @supportURL         https://github.com/RJHsiao/behemoth-anti-adblocker-canceller
 // @license            gpl
 // @compatible         chrome
